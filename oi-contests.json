@@ -1,0 +1,122 @@
+[
+  {
+    "title": "aigcnoip 模拟赛 · 第 1 套 · 山地驿站",
+    "directory": "round-01",
+    "rule": "oi",
+    "minutes": 270,
+    "problems": [
+      {
+        "slug": "lantern",
+        "points": 100
+      },
+      {
+        "slug": "relay",
+        "points": 100
+      },
+      {
+        "slug": "canopy",
+        "points": 100
+      },
+      {
+        "slug": "dispatch",
+        "points": 100
+      }
+    ]
+  },
+  {
+    "title": "aigcnoip 模拟赛 · 第 2 套 · 港湾灯火",
+    "directory": "round-02",
+    "rule": "oi",
+    "minutes": 270,
+    "problems": [
+      {
+        "slug": "tickets",
+        "points": 100
+      },
+      {
+        "slug": "passcode",
+        "points": 100
+      },
+      {
+        "slug": "harbor",
+        "points": 100
+      },
+      {
+        "slug": "signal",
+        "points": 100
+      }
+    ]
+  },
+  {
+    "title": "aigcnoip 模拟赛 · 第 3 套 · 寒地长路",
+    "directory": "round-03",
+    "rule": "oi",
+    "minutes": 270,
+    "problems": [
+      {
+        "slug": "frost",
+        "points": 100
+      },
+      {
+        "slug": "ledger",
+        "points": 100
+      },
+      {
+        "slug": "workshop",
+        "points": 100
+      },
+      {
+        "slug": "ringroad",
+        "points": 100
+      }
+    ]
+  },
+  {
+    "title": "aigcnoip 模拟赛 · 第 4 套 · 工坊一日",
+    "directory": "round-04",
+    "rule": "oi",
+    "minutes": 270,
+    "problems": [
+      {
+        "slug": "queueing",
+        "points": 100
+      },
+      {
+        "slug": "grove",
+        "points": 100
+      },
+      {
+        "slug": "mosaic",
+        "points": 100
+      },
+      {
+        "slug": "convoy",
+        "points": 100
+      }
+    ]
+  },
+  {
+    "title": "aigcnoip 模拟赛 · 第 5 套 · 群岛航次",
+    "directory": "round-05",
+    "rule": "oi",
+    "minutes": 270,
+    "problems": [
+      {
+        "slug": "stamps",
+        "points": 100
+      },
+      {
+        "slug": "tunnels",
+        "points": 100
+      },
+      {
+        "slug": "rescue",
+        "points": 100
+      },
+      {
+        "slug": "layers",
+        "points": 100
+      }
+    ]
+  }
+]
